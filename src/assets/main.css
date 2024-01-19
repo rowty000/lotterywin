@@ -1,0 +1,14 @@
+@import './base.css';
+
+#app {
+  display: flex;
+  font-weight: normal;
+}
+
+body {
+  background-color: black;
+}
+
+div {
+  display: flex;
+}
